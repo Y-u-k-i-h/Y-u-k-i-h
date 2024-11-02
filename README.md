@@ -1,8 +1,9 @@
-<div style="text-align: right;">
+<div align="right">
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=Y-u-k-i-h&icon=10&color=0" alt="Profile Views">
   </a>
 </div>
+
 
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&duration=4000&pause=1000&color=C0CAF5&width=520&lines=Hi+%F0%9F%91%8B%2C+I'm+Richard+%F0%9F%99%82.;A+passionate+programmer+from+Kenya+%E2%9D%A4%EF%B8%8F.)](https://git.io/typing-svg)
