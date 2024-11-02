@@ -6,6 +6,6 @@
 <p align="left">
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Y-u-k-i-h&layout=donut-vertical)](https://github.com/Y-u-k-i-h/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Y-u-k-i-h&layout=donut)](https://github.com/Y-u-k-i-h/github-readme-stats)
 
 ![Yukih's GitHub stats](https://github-readme-stats.vercel.app/api?username=Y-u-k-i-h&show_icons=true&theme=tokyonight)
