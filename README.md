@@ -1,5 +1,5 @@
 [![](https://visitcount.itsvg.in/api?id=Y-u-k-i-h&icon=10&color=0)](https://visitcount.itsvg.in)
-
+---
 <h1 align="center">Hi 👋, I'm Richard</h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
 
@@ -12,6 +12,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Y-u-k-i-h&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Y-u-k-i-h&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=donut)
 
----
-[![](https://visitcount.itsvg.in/api?id=Y-u-k-i-h&icon=10&color=0)](https://visitcount.itsvg.in)
+
 
