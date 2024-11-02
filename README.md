@@ -1,8 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=Y-u-k-i-h&icon=10&color=0)](https://visitcount.itsvg.in)
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Silkscreen&size=30&duration=4000&pause=1000&color=C0CAF5&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Richard+%F0%9F%99%82.;A+passionate+programmer+from+Kenya.)](https://git.io/typing-svg)
-
-<h3>🌱 I’m currently studying Computer Science at Strathmore University</h3>
+# <h3>🌱 I’m currently studying Computer Science at Strathmore University</h3>
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
