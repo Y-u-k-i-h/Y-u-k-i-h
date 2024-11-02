@@ -1,4 +1,4 @@
-<p align="right">[![](https://visitcount.itsvg.in/api?id=Y-u-k-i-h&icon=10&color=0)](https://visitcount.itsvg.in)</p>
+[![](https://visitcount.itsvg.in/api?id=Y-u-k-i-h&icon=10&color=0)](https://visitcount.itsvg.in)
 <h1 align="center">Hi 👋, I'm Richard</h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
 
